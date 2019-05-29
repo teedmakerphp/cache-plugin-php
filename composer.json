@@ -1,0 +1,25 @@
+{
+  "name": "teedmakerphp/cache-plugin-php",
+  "description": "A PHP plugin to teedmakerphp-cache",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tadeu Barbosa",
+      "email": "tadeufbarbosa@gmail.com"
+    }
+  ],
+  "extra": {
+    "authors": {
+      "name": "Tadeu Barbosa"
+    },
+    "files": {
+      "types": ["php"],
+      "ignore": ["blade.php"]
+    }
+  },
+  "require": {
+    "teedmakerphp/cache": "dev-master"
+  },
+  "minimum-stability": "stable"
+}
